@@ -11,13 +11,6 @@
   font-family: "Poppins", sans-serif;
   user-select: none;
 }
-.swiper-button-prev::after {
-  content: url("../../src/assets/icons/side\ btn\ LEFT@2x.svg") !important;
-}
-
-.swiper-button-next::after {
-  content: url("../../src/assets/icons/side\ btn\ RIGHT@2x.svg") !important;
-}
 
 @media (max-width: 500px) {
   .mySwiper {
